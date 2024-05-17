@@ -4,7 +4,7 @@ I'm a game developer and a open source contributer.
 
 Born in 🇰🇷 South Korea, living in 🇺🇸 USA. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cathei&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cathei&theme=vue-dark&hide=contribs&hide_rank=true&show_icons=true)
 
 ## Open source projects 🌟
 
